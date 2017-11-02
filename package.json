@@ -28,7 +28,7 @@
     "cf-link": "node scripts/npm/link",
     "precommit": "lint-staged"
   },
-   "lint-staged": {
+  "lint-staged": {
     "*.{js,less}": [
       "prettier --write",
       "git add"
