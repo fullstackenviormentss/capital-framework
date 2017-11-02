@@ -25,7 +25,18 @@
     "release": "./scripts/travis/release.sh",
     "build": "gulp build",
     "test": "gulp test",
-    "cf-link": "node scripts/npm/link"
+    "cf-link": "node scripts/npm/link",
+    "precommit": "lint-staged"
+  },
+   "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.less": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
