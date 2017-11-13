@@ -453,10 +453,7 @@ _Reduce screen size to see these in action_
 
 <button class="a-btn">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left"></span>
     Close
 </button>
 
@@ -480,10 +477,7 @@ _Reduce screen size to see these in action_
 
 <button class="a-btn a-btn__disabled">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left"></span>
     Close
 </button> - Disabled button
 
