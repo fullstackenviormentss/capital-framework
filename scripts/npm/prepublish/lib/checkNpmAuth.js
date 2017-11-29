@@ -19,6 +19,9 @@ function checkAuth(component) {
         currentUser = data[1].stdout.trim();
     printLn.info('Logged into npm as ' + currentUser);
     data[0].forEach(function(maintainer) {
+      if ( authorized ) {
+        return;
+      }
       authorized = maintainer.name == currentUser;
     });
     if (!authorized) {

@@ -17,7 +17,7 @@ util.getGitStatus('./')
   // Verify they're logged into npm.
   .then(checkCredentials)
   // Travis operates in a detached head state so checkout the master branch.
-  .then(checkoutMaster)
+  // .then(checkoutMaster)
   // Get a list of CF components from the components/ dir.
   .then(getComponents)
   // Filter the components that have had their versions incremented.
@@ -31,13 +31,13 @@ util.getGitStatus('./')
   // Write the new version to the changelog.
   .then(updateChangelog)
   // Commit the change.
-  .then(commit)
+  // .then(commit)
   // Tag the new version.
-  .then(tag)
+  // .then(tag)
   // Push the change to GitHub.
-  .then(push)
+  // .then(push)
   // Publish the components.
-  .then(publishComponents)
+  // .then(publishComponents)
   // All done.
   .then(finish)
   // Report any errors that happen along the way.
@@ -253,5 +253,5 @@ function publishComponents(result) {
 function finish(result) {
   if (result && result.stdout) util.printLn.console(result.stdout);
   util.printLn.success('Hooray! All done!');
-  process.exit(0);
+  process.exit(1);
 }
