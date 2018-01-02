@@ -8,49 +8,23 @@
 //
 
 .u-webfont-regular() {
-    font-family: @webfont-regular, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
-
-    & em,
-    & i {
-        .u-webfont-italic();
-    }
-
-    & strong,
-    & b {
-        .u-webfont-demi();
-    }
 }
 
 .u-webfont-italic() {
-    font-family: @webfont-italic, Arial, sans-serif;
     font-style: italic;
     font-weight: normal;
-
-    .lt-ie9 & {
-        font-style: normal !important;
-    }
 }
 
 .u-webfont-medium() {
-    font-family: @webfont-medium, Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
-
-    .lt-ie9 & {
-        font-weight: normal !important;
-    }
 }
 
 .u-webfont-demi() {
-    font-family: @webfont-demi, Arial, sans-serif;
     font-style: normal;
-    font-weight: bold;
-
-    .lt-ie9 & {
-        font-weight: normal !important;
-    }
+    font-weight: 600;
 }
 
 //
@@ -58,7 +32,7 @@
 //
 
 body {
-    .u-webfont-regular();
+    font-family: 'Avenir Next', Arial, sans-serif;
 
     color: @text;
     font-size: unit( @base-font-size-px / 16 * 100, % );
