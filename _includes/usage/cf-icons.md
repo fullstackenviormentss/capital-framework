@@ -136,6 +136,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 
 ### Financial products and services
+
 #### bank-account
 
 <a href="#" class="a-link__icon">
@@ -378,6 +379,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 
 ### Web application icons
+
 #### audio-max
 
 <a href="#" class="a-link__icon">
@@ -639,7 +641,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Newspaper</span>
-    {% include icons/newspaper.svg %}
+    {% include icons/newspaper-round.svg %}
 </a>
 
 #### parent
@@ -760,4 +762,79 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Wi-Fi</span>
     {% include icons/wifi-round.svg %}
+</a>
+
+
+### Communications icons
+
+#### email
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Email</span>
+    {% include icons/email.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Email</span>
+    {% include icons/email-round.svg %}
+</a>
+
+#### fax
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Fax</span>
+    {% include icons/fax.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Fax</span>
+    {% include icons/fax-round.svg %}
+</a>
+
+#### mail
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Mail</span>
+    {% include icons/mail.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Mail</span>
+    {% include icons/mail-round.svg %}
+</a>
+
+#### phone
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Phone</span>
+    {% include icons/phone.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Phone</span>
+    {% include icons/phone-round.svg %}
+</a>
+
+#### technology
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Technology</span>
+    {% include icons/technology.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Technology</span>
+    {% include icons/technology-round.svg %}
+</a>
+
+#### web
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Web</span>
+    {% include icons/web.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Web</span>
+    {% include icons/web-round.svg %}
 </a>
