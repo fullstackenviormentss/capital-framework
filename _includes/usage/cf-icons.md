@@ -838,3 +838,90 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     <span class="a-link_text">Web</span>
     {% include icons/web-round.svg %}
 </a>
+
+
+### Social/sharing icons
+
+#### email
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Email</span>
+    {% include icons/email.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Email</span>
+    {% include icons/email-square.svg %}
+</a>
+
+#### facebook
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Facebook</span>
+    {% include icons/facebook.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Facebook</span>
+    {% include icons/facebook-square.svg %}
+</a>
+
+#### flickr
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Flickr</span>
+    {% include icons/flickr.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Flickr</span>
+    {% include icons/flickr-square.svg %}
+</a>
+
+#### github
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">GitHub</span>
+    {% include icons/github.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">GitHub</span>
+    {% include icons/github-square.svg %}
+</a>
+
+#### linkedin
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">LinkedIn</span>
+    {% include icons/linkedin.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">LinkedIn</span>
+    {% include icons/linkedin-square.svg %}
+</a>
+
+#### twitter
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Twitter</span>
+    {% include icons/twitter.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Twitter</span>
+    {% include icons/twitter-square.svg %}
+</a>
+
+#### youtube
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">YouTube</span>
+    {% include icons/youtube.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">YouTube</span>
+    {% include icons/youtube-square.svg %}
+</a>
