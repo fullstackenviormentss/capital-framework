@@ -453,68 +453,58 @@ _Reduce screen size to see these in action_
 
 <button class="a-btn">
     <span class="a-btn_icon
-                 a-btn_icon__on-left"></span>
+                 a-btn_icon__on-left">
+    {% include icons/delete.svg %}</span>
     Close
 </button>
 
 <button class="a-btn a-btn__secondary">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% include icons/delete.svg %}</span>
     Close
 </button> - Secondary button
 
 <button class="a-btn a-btn__warning">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% include icons/delete.svg %}</span>
     Close
 </button> - Warning button
 
 <button class="a-btn a-btn__disabled">
     <span class="a-btn_icon
-                 a-btn_icon__on-left"></span>
+                 a-btn_icon__on-left">
+    {% include icons/delete.svg %}</span>
     Close
 </button> - Disabled button
 
 ```
 <button class="a-btn">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
     Close
 </button>
 
 <button class="a-btn a-btn__secondary">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
     Close
 </button> - Secondary button
 
 <button class="a-btn a-btn__warning">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
     Close
 </button> - Warning button
 
 <button class="a-btn a-btn__disabled">
     <span class="a-btn_icon
-                 a-btn_icon__on-left
-                 cf-icon
-                 cf-icon__before
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-left">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
     Close
 </button> - Disabled button
 ```
@@ -524,74 +514,58 @@ _Reduce screen size to see these in action_
 <button class="a-btn">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% include icons/delete.svg %}</span>
 </button>
 
 <button class="a-btn a-btn__secondary">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% include icons/delete.svg %}</span>
 </button> - Secondary button
 
 <button class="a-btn a-btn__warning">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% include icons/delete.svg %}</span>
 </button> - Warning button
 
 <button class="a-btn a-btn__disabled">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% include icons/delete.svg %}</span>
 </button> - Disabled button
 
 ```
 <button class="a-btn">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
 </button>
 
 <button class="a-btn a-btn__secondary">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
 </button> - Secondary button
 
 <button class="a-btn a-btn__warning">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
 </button> - Warning button
 
 <button class="a-btn a-btn__disabled">
     Close
     <span class="a-btn_icon
-                 a-btn_icon__on-right
-                 cf-icon
-                 cf-icon__after
-                 cf-icon-delete"></span>
+                 a-btn_icon__on-right">
+    {% raw %}{% include icons/delete.svg %}{% endraw %}</span>
 </button> - Disabled button
 ```
 

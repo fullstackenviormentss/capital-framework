@@ -755,7 +755,7 @@ have helper text that appears below the main label text.
            id="form-input-error"
            aria-describedby="form-input-error_message">
     <div class="a-error-message" id="form-input-error_message" role="alert">
-        <span class="cf-icon cf-icon-delete-round" aria-hidden="true"></span>
+        {% include icons/delete-round.svg %}
         This is a required question, please answer.
     </div>
 </div>
@@ -816,8 +816,8 @@ typically to clear the input.
         title="Test input"
         class="a-text-input">
     <button class="a-btn a-btn__link">
-        Clear
-        <span class="cf-icon cf-icon-delete"></span>
+        {% include icons/delete.svg %}
+        <span class="u-visually-hidden">Clear</span>
     </button>
 </div>
 
@@ -830,8 +830,8 @@ typically to clear the input.
         title="Test input"
         class="a-text-input">
     <button class="a-btn a-btn__link">
-        Clear
-        <span class="cf-icon cf-icon-delete"></span>
+        {% raw %}{% include icons/delete.svg %}{% endraw %}
+        <span class="u-visually-hidden">Clear</span>
     </button>
 </div>
 ```
@@ -852,8 +852,8 @@ creating a typical site search form.
                 title="Test input"
                 class="a-text-input">
             <button class="a-btn a-btn__link">
-                Clear
-                <span class="cf-icon cf-icon-delete"></span>
+                {% include icons/delete.svg %}
+                <span class="u-visually-hidden">Clear</span>
             </button>
         </div>
     </div>
@@ -873,8 +873,8 @@ creating a typical site search form.
                 title="Test input"
                 class="a-text-input">
             <button class="a-btn a-btn__link">
-                Clear
-                <span class="cf-icon cf-icon-delete"></span>
+                {% raw %}{% include icons/delete.svg %}{% endraw %}
+                <span class="u-visually-hidden">Clear</span>
             </button>
         </div>
     </div>

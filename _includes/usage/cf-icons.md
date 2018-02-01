@@ -135,9 +135,9 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 ## The icons
 
 
-### Financial products and services
+### Financial products, services, and concepts
 
-#### bank-account _alias(es): bank_
+#### bank-account _rename to bank, alias(es): bank-account_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Bank account</span>
@@ -185,7 +185,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/complaint-round.svg %}
 </a>
 
-#### contract _alias(es): fountain-pen_
+#### contract _rename to fountain-pen, alias(es): contract_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Contract</span>
@@ -305,7 +305,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/mortgage-round.svg %}
 </a>
 
-#### owning-a-home _rename to buying-a-house, alias(es): owning-a-home, home, house_
+#### owning-a-home _rename to house, alias(es): buying-a-house, owning-a-home, home_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Owning a Home</span>
@@ -329,7 +329,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/payday-loan-round.svg %}
 </a>
 
-#### paying-college _rename to paying-for-college, alias(es): college, grad-cap, mortarboard_
+#### paying-college _rename to college, alias(es): paying-for-college, grad-cap, mortarboard_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Paying for college</span>
@@ -365,7 +365,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/quick-cash-round.svg %}
 </a>
 
-#### retirement _alias(es): piggy-bank_
+#### retirement _rename to piggy-bank, alias(es): retirement_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Retirement</span>
