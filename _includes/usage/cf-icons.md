@@ -137,7 +137,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 ### Financial products and services
 
-#### bank-account
+#### bank-account _alias(es): bank_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Bank account</span>
@@ -161,7 +161,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/building-credit-round.svg %}
 </a>
 
-#### buying-car _rename to buying-a-car_
+#### buying-car _rename to car, alias(es): car-loan, auto, auto-loan_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Buying a car</span>
@@ -185,7 +185,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/complaint-round.svg %}
 </a>
 
-#### contract
+#### contract _alias(es): fountain-pen_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Contract</span>
@@ -245,7 +245,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/debt-round.svg %}
 </a>
 
-#### getting-a-credit-card
+#### getting-a-credit-card _alias(es): credit-card-contract_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Getting a credit card</span>
@@ -269,7 +269,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/loan-round.svg %}
 </a>
 
-#### money
+#### money _alias(es): dollar-bill_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Money</span>
@@ -293,7 +293,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/money-transfer-round.svg %}
 </a>
 
-#### mortgage
+#### mortgage _alias(es): sold_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Mortgage</span>
@@ -305,7 +305,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/mortgage-round.svg %}
 </a>
 
-#### owning-a-home _rename to buying-a-house, alias owning-a-home to it_
+#### owning-a-home _rename to buying-a-house, alias(es): owning-a-home, home, house_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Owning a Home</span>
@@ -329,7 +329,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/payday-loan-round.svg %}
 </a>
 
-#### paying-college _rename to paying-for-college_
+#### paying-college _rename to paying-for-college, alias(es): college, grad-cap, mortarboard_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Paying for college</span>
@@ -341,7 +341,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/paying-college-round.svg %}
 </a>
 
-#### prepaid-cards
+#### prepaid-cards _alias(es): prepaid_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Prepaid cards</span>
@@ -365,7 +365,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/quick-cash-round.svg %}
 </a>
 
-#### retirement
+#### retirement _alias(es): piggy-bank_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Retirement</span>
@@ -380,7 +380,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 ### Web application icons
 
-#### audio-max
+#### audio-max _alias(es): audio-high_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Audio max</span>
@@ -416,7 +416,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/audio-low-round.svg %}
 </a>
 
-#### audio-mute
+#### audio-mute _alias(es): mute, audio-off_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Audio mute</span>
@@ -452,7 +452,19 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/unbookmark-round.svg %}
 </a>
 
-#### bullhorn
+#### broadcast _alias(es): antenna, radio_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Broadcast</span>
+    {% include icons/broadcast.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Broadcast</span>
+    {% include icons/broadcast-round.svg %}
+</a>
+
+#### bullhorn _alias(es): megaphone_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Bullhorn</span>
@@ -464,7 +476,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/bullhorn-round.svg %}
 </a>
 
-#### chart
+#### chart _alias(es): graph_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Chart</span>
@@ -476,7 +488,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/chart-round.svg %}
 </a>
 
-#### clock
+#### clock _alias(es): time_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Clock</span>
@@ -488,7 +500,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/clock-round.svg %}
 </a>
 
-#### date
+#### date _alias(es): calendar_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Date</span>
@@ -500,7 +512,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/date-round.svg %}
 </a>
 
-#### dialogue
+#### dialogue _alias(es): discussion_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Dialogue</span>
@@ -510,6 +522,18 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Dialogue</span>
     {% include icons/dialogue-round.svg %}
+</a>
+
+#### disabled _alias(es): no, disallowed_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Disabled</span>
+    {% include icons/disabled.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Disabled</span>
+    {% include icons/disabled-round.svg %}
 </a>
 
 #### external-link
@@ -524,7 +548,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/external-link-round.svg %}
 </a>
 
-#### favorite
+#### favorite _alias(es): star, starred fav, fave_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Favorite</span>
@@ -536,7 +560,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/favorite-round.svg %}
 </a>
 
-#### unfavorite
+#### unfavorite _alias(es): unstar, unstarred, unfav, unfave_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Unfavorite</span>
@@ -548,7 +572,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/unfavorite-round.svg %}
 </a>
 
-#### information
+#### information _alias(es): info, i_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Information</span>
@@ -560,7 +584,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/information-round.svg %}
 </a>
 
-#### lightbulb
+#### lightbulb _alias(es): idea_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Lightbulb</span>
@@ -584,7 +608,19 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/link-round.svg %}
 </a>
 
-#### lock
+#### list
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">List</span>
+    {% include icons/list.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">List</span>
+    {% include icons/list-round.svg %}
+</a>
+
+#### lock _alias(es): locked_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Lock</span>
@@ -596,7 +632,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/lock-round.svg %}
 </a>
 
-#### unlock
+#### unlock _alias(es): unlocked_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Unlock</span>
@@ -608,7 +644,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/unlock-round.svg %}
 </a>
 
-#### menu
+#### menu _alias(es): hamburger_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Menu</span>
@@ -620,7 +656,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/menu-round.svg %}
 </a>
 
-#### microphone
+#### microphone _alias(es): mic_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Microphone</span>
@@ -632,7 +668,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/microphone-round.svg %}
 </a>
 
-#### newspaper
+#### newspaper _alias(es): news_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Newspaper</span>
@@ -644,7 +680,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/newspaper-round.svg %}
 </a>
 
-#### parent
+#### parent _alias(es): family_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Parent</span>
@@ -692,7 +728,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/close-quote-round.svg %}
 </a>
 
-#### search
+#### search _alias(es): zoom, magnifying-glass_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Search</span>
@@ -704,7 +740,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/search-round.svg %}
 </a>
 
-#### settings
+#### settings _alias(es): preferences, gear, cog_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Settings</span>
@@ -740,7 +776,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/speech-bubble-round.svg %}
 </a>
 
-#### user
+#### user _alias(es): person_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">User</span>
@@ -752,7 +788,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/user-round.svg %}
 </a>
 
-#### wifi
+#### wifi _alias(es): wi-fi, wireless_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Wi-Fi</span>
@@ -767,7 +803,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 ### Communications icons
 
-#### email
+#### email _alias(es): envelope-back_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Email</span>
@@ -779,7 +815,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/email-round.svg %}
 </a>
 
-#### fax
+#### fax _alias(es): fax-machine_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Fax</span>
@@ -791,7 +827,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/fax-round.svg %}
 </a>
 
-#### mail
+#### mail _alias(es): envelope-front_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Mail</span>
@@ -803,7 +839,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/mail-round.svg %}
 </a>
 
-#### phone
+#### phone _alias(es): telephone, handset_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Phone</span>
@@ -815,7 +851,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/phone-round.svg %}
 </a>
 
-#### technology
+#### technology _alias(es): cellphone, tablet_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Technology</span>
@@ -827,7 +863,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
     {% include icons/technology-round.svg %}
 </a>
 
-#### web
+#### web _alias(es): globe, world_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Web</span>
@@ -842,7 +878,7 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 
 ### Social/sharing icons
 
-#### email
+#### email _alias(es): envelope-back_
 
 <a href="#" class="a-link__icon">
     <span class="a-link_text">Email</span>
@@ -924,4 +960,373 @@ _Note that this issue only pops up in older versions of Internet Explorer._
 <a href="#" class="a-link__icon">
     <span class="a-link_text">YouTube</span>
     {% include icons/youtube-square.svg %}
+</a>
+
+
+### Document icons
+
+#### appendix
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Appendix</span>
+    {% include icons/appendix.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Appendix</span>
+    {% include icons/appendix-round.svg %}
+</a>
+
+#### attach _alias(es): attachment, paper-clip_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Attach</span>
+    {% include icons/attach.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Attach</span>
+    {% include icons/attach-round.svg %}
+</a>
+
+#### copy _alias(es): duplicate_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Copy</span>
+    {% include icons/copy.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Copy</span>
+    {% include icons/copy-round.svg %}
+</a>
+
+#### document _alias(es): doc, pdf_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Document</span>
+    {% include icons/document.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Document</span>
+    {% include icons/document-round.svg %}
+</a>
+
+#### download
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Download</span>
+    {% include icons/download.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Download</span>
+    {% include icons/download-round.svg %}
+</a>
+
+#### upload
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Upload</span>
+    {% include icons/upload.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Upload</span>
+    {% include icons/upload-round.svg %}
+</a>
+
+#### edit _alias(es): pencil_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Edit</span>
+    {% include icons/edit.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Edit</span>
+    {% include icons/edit-round.svg %}
+</a>
+
+#### print _alias(es): printer_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Print</span>
+    {% include icons/print.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Print</span>
+    {% include icons/print-round.svg %}
+</a>
+
+#### rss _alias(es): feed_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">RSS</span>
+    {% include icons/rss.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">RSS</span>
+    {% include icons/rss-round.svg %}
+</a>
+
+#### save _alias(es): disk_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Save</span>
+    {% include icons/save.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Save</span>
+    {% include icons/save-round.svg %}
+</a>
+
+#### supplement
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Supplement</span>
+    {% include icons/supplement.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Supplement</span>
+    {% include icons/supplement-round.svg %}
+</a>
+
+
+### Navigation icons
+
+#### up _alias(es): chevron-up_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Up</span>
+    {% include icons/up.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Up</span>
+    {% include icons/up-round.svg %}
+</a>
+
+#### right _alias(es): chevron-right_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Right</span>
+    {% include icons/right.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Right</span>
+    {% include icons/right-round.svg %}
+</a>
+
+#### down _alias(es): chevron-down_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Down</span>
+    {% include icons/down.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Down</span>
+    {% include icons/down-round.svg %}
+</a>
+
+#### left _alias(es): chevron-left_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/left.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/left-round.svg %}
+</a>
+
+#### arrow-up
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow up</span>
+    {% include icons/arrow-up.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow up</span>
+    {% include icons/arrow-up-round.svg %}
+</a>
+
+#### arrow-right
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow right</span>
+    {% include icons/arrow-right.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow right</span>
+    {% include icons/arrow-right-round.svg %}
+</a>
+
+#### arrow-down
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow down</span>
+    {% include icons/arrow-down.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow down</span>
+    {% include icons/arrow-down-round.svg %}
+</a>
+
+#### arrow-left
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow left</span>
+    {% include icons/arrow-left.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Arrow left</span>
+    {% include icons/arrow-left-round.svg %}
+</a>
+
+
+### Status icons
+
+#### approved _alias(es): check, checkmark, success_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Approved</span>
+    {% include icons/approved.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Approved</span>
+    {% include icons/approved-round.svg %}
+</a>
+
+#### delete _alias(es): close, remove, multiply, multiplication_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Delete</span>
+    {% include icons/delete.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Delete</span>
+    {% include icons/delete-round.svg %}
+</a>
+
+#### error _alias(es): warning, alert, exclamation-mark_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Error</span>
+    {% include icons/error.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Error</span>
+    {% include icons/error-round.svg %}
+</a>
+
+#### help _alias(es): question, question-mark_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Help</span>
+    {% include icons/help.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Help</span>
+    {% include icons/help-round.svg %}
+</a>
+
+#### update
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Update</span>
+    {% include icons/update.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Update</span>
+    {% include icons/update-round.svg %}
+</a>
+
+#### dollar
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/dollar.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/dollar-round.svg %}
+</a>
+
+#### plus _alias(es): add, addition, expand_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Plus</span>
+    {% include icons/plus.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Plus</span>
+    {% include icons/plus-round.svg %}
+</a>
+
+#### minus _alias(es): subtract, subtraction, collapse_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Minus</span>
+    {% include icons/minus.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Minus</span>
+    {% include icons/minus-round.svg %}
+</a>
+
+#### divide _alias(es): division_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Divide</span>
+    {% include icons/divide.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Divide</span>
+    {% include icons/divide-round.svg %}
+</a>
+
+#### equal _alias(es): equals_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Equal</span>
+    {% include icons/equal.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Equal</span>
+    {% include icons/equal-round.svg %}
+</a>
+
+#### percentage _alias(es): percent_
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/percentage.svg %}
+</a>
+
+<a href="#" class="a-link__icon">
+    <span class="a-link_text">Left</span>
+    {% include icons/percentage-round.svg %}
 </a>
